@@ -1,4 +1,4 @@
 #post
 let data={
-  post:"fb"
+  post:"fb-watsapp-imo-tikto"
 };
