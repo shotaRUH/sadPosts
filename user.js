@@ -1,3 +1,4 @@
 let user={
-  name:sadisha''
+  name:'sadisha',
+  age:30
 };
